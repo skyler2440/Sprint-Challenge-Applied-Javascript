@@ -32,13 +32,23 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. What is the DOM?
 
+The DOM is a represetation of the document as pages, styles, content, nodes and objects thus making a bridge for languages to connect to the page.
+
 2. What is an event?
+
+A constructor with many different properties and methods which can be called upon by an event listener.
 
 3. What is an event listener?
 
+An event listener listens for an event to take place by way of a click or something else then the event is called upon such as updating attributes.
+
 4. Why would we convert a NodeList into an Array?
 
+Node lists are collections of objects that must be looped over to get the data out of into arrays
+
 5. What is a component?
+
+It is a class with a connected call back that can be used to switch between data it uses the this.*
 
 ### Git Set up
 
